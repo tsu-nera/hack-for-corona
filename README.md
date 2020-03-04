@@ -9,7 +9,9 @@ T.B.D.
 
 ## References
 
-いろいろな取り組みをとりあえず調べる。
+いろいろな取り組みをとりあえず調べる。ここがいろいろまとまってる。
+
+[COVID\-19 GIS Hub](https://coronavirus-disasterresponse.hub.arcgis.com/)
 
 ### 日本
 
