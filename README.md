@@ -11,8 +11,13 @@ T.B.D.
 
 いろいろな取り組みをとりあえず調べる。
 
+### 日本
+
+* [kaz\-ogiwara/covid19: 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。](https://github.com/kaz-ogiwara/covid19)
 * [tokyo\-metropolitan\-gov/covid19: 東京都公式 新型コロナウイルス対策サイト](https://github.com/tokyo-metropolitan-gov/covid19)
-* [新型コロナウイルスの対策方法をインフォグラフィックスでチェックできるAndroidアプリ \| ライフハッカー［日本版］](https://www.lifehacker.jp/2020/02/lht_coronavirus.html)
+
+## 世界
+
 * [SteffanCrowe/CoronaScraper: Scrape the current number of infected in the UK](https://github.com/SteffanCrowe/CoronaScraper)
 * [nyem69/coronavirus\_data: data from multiple sources](https://github.com/nyem69/coronavirus_data)
 * [avischiffmann/Coronavirus\-Dashboard: This is a website I made to track the ongoing Coronavirus \(nCov2019\)](https://github.com/avischiffmann/Coronavirus-Dashboard)
