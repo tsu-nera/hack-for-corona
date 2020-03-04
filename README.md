@@ -22,6 +22,7 @@ T.B.D.
 * [reustle/covid19japan](https://github.com/reustle/covid19japan)
 * [日本国内における新型コロナウイルス感染症の患者数マップの公開 – J\.A\.G JAPAN](https://jag-japan.com/blog/news/covid-19-map/)
 * [新型コロナ感染 日本国内・世界各国マップ \| ESRIジャパン](https://www.esrij.com/news/details/124546/?utm_source=esrij&utm_medium=topbanner&utm_campaign=covid19)
+* [swsoyee/2019\-ncov\-japan: 🦠 Interactive dashboard of COVID\-19 cases in Japan](https://github.com/swsoyee/2019-ncov-japan)
 
 ### 世界
 
