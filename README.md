@@ -22,6 +22,7 @@ T.B.D.
 ### 世界
 
 * [List of Novel Coronavirus Dashboards](https://www.arcgis.com/sharing/rest/content/items/a1746ada9bff48c09ef76e5a788b5910/resources/1581644001033.jpeg?w=2400)
+* [新型コロナウイルス感染状況ダッシュボード \| ESRIジャパン](https://www.esrij.com/news/details/124059/)
 * [SteffanCrowe/CoronaScraper: Scrape the current number of infected in the UK](https://github.com/SteffanCrowe/CoronaScraper)
 * [nyem69/coronavirus\_data: data from multiple sources](https://github.com/nyem69/coronavirus_data)
 * [avischiffmann/Coronavirus\-Dashboard: This is a website I made to track the ongoing Coronavirus \(nCov2019\)](https://github.com/avischiffmann/Coronavirus-Dashboard)
