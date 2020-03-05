@@ -7,10 +7,19 @@ hack-for-corona
 
 ## Data Sources
 
+基本は神奈川県HPの対策ページから。
+
 * [新型コロナウイルス感染症について \- 神奈川県ホームページ](https://www.pref.kanagawa.jp/docs/ga4/bukanshi/bukan_200114.html)
+
+各市の対策ページへのリンク。
+
+3/5で感染確認されているのは、横浜市、相模原市、鎌倉地域、厚木地域か？ 情報があまり出ていないので正確な情報もわからんな。
+
 * [川崎市：【緊急情報】新型コロナウイルス感染症について](http://www.city.kawasaki.jp/350/page/0000114231.html)
 * [新型コロナウイルス感染症に関する情報について　横浜市](https://www.city.yokohama.lg.jp/city-info/koho-kocho/koho/topics/covid-19.html)
-* 
+* [新型コロナウイルス感染症について｜相模原市](http://www.city.sagamihara.kanagawa.jp/kurashi/kenko/kansenyobo/1018481.html)
+* [鎌倉市／新型コロナウイルス感染症について](https://www.city.kamakura.kanagawa.jp/skenkou/covid-19.html)
+* [新型コロナウイルスについて \| 厚木市](https://www.city.atsugi.kanagawa.jp/information/d047408.html)
 
 ## References
 
@@ -38,4 +47,3 @@ hack-for-corona
 * [CSSEGISandData/COVID\-19: Novel Coronavirus \(COVID\-19\) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 * [Building a Coronavirus tracker app with Spring Boot and Java \- Java Brains Tutorial \- YouTube](https://www.youtube.com/watch?v=8hjNG9GZGnQ)
 * [Covid\-19\-data\-science/README\_EN\.md at master · wuhan2020/Covid\-19\-data\-science](https://github.com/wuhan2020/Covid-19-data-science/blob/master/README_EN.md)
-
