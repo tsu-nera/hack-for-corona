@@ -3,11 +3,11 @@ hack-for-corona
 
 国難になにかできないかを考える。
 
-とりあえず世界にも日本にもわたしには範囲が広すぎるので神奈川県川崎市のために。
+とりあえず世界も日本もわたしには範囲が広すぎるので神奈川県川崎市のために。
 
 ## Data Sources
 
-T.B.D.
+* [新型コロナウイルス感染症について \- 神奈川県ホームページ](https://www.pref.kanagawa.jp/docs/ga4/bukanshi/bukan_200114.html)
 
 ## References
 
