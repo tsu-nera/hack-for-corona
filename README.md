@@ -8,6 +8,9 @@ hack-for-corona
 ## Data Sources
 
 * [新型コロナウイルス感染症について \- 神奈川県ホームページ](https://www.pref.kanagawa.jp/docs/ga4/bukanshi/bukan_200114.html)
+* [川崎市：【緊急情報】新型コロナウイルス感染症について](http://www.city.kawasaki.jp/350/page/0000114231.html)
+* [新型コロナウイルス感染症に関する情報について　横浜市](https://www.city.yokohama.lg.jp/city-info/koho-kocho/koho/topics/covid-19.html)
+* 
 
 ## References
 
