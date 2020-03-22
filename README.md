@@ -21,8 +21,6 @@
 
 各市の対策ページへのリンク。
 
-3/5 で感染確認されているのは、横浜市、相模原市、鎌倉地域、厚木地域か？ 情報があまり出ていないので正確な情報もわからんな。
-
 - [川崎市：【緊急情報】新型コロナウイルス感染症について](http://www.city.kawasaki.jp/350/page/0000114231.html)
 - [新型コロナウイルス感染症に関する情報について　横浜市](https://www.city.yokohama.lg.jp/city-info/koho-kocho/koho/topics/covid-19.html)
 - [新型コロナウイルス感染症について｜相模原市](http://www.city.sagamihara.kanagawa.jp/kurashi/kenko/kansenyobo/1018481.html)
