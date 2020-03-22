@@ -27,6 +27,10 @@
 
 [COVID\-19 GIS Hub](https://coronavirus-disasterresponse.hub.arcgis.com/)
 
+SIGNATEのコンペは面白そう。
+
+- [COVID\-19チャレンジ（フェーズ1） \| SIGNATE \- Data Science Competition](https://signate.jp/competitions/260)
+
 ### 日本
 
 - [kaz\-ogiwara/covid19: 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。](https://github.com/kaz-ogiwara/covid19)
