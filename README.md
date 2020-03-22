@@ -4,6 +4,12 @@
 
 とりあえず世界も日本もわたしには範囲が広すぎるので神奈川県川崎市のためのなにか。
 
+## 神奈川県のデータ集計
+
+Jupyter Notebookでとりあえず感染者の統計量をみて可視化した。
+
+- https://nbviewer.jupyter.org/github/tsu-nera/hack-for-corona/blob/master/notebooks/kanagawa-corona.ipynb
+
 ## Data Sources
 
 基本は神奈川県 HP の対策ページから。
@@ -66,3 +72,7 @@ SIGNATEのコンペは面白そう。
 - [CSSEGISandData/COVID\-19: Novel Coronavirus \(COVID\-19\) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 - [Building a Coronavirus tracker app with Spring Boot and Java \- Java Brains Tutorial \- YouTube](https://www.youtube.com/watch?v=8hjNG9GZGnQ)
 - [Covid\-19\-data\-science/README_EN\.md at master · wuhan2020/Covid\-19\-data\-science](https://github.com/wuhan2020/Covid-19-data-science/blob/master/README_EN.md)
+
+## Authors
+
+* [tsu-nera](https://twitter.com/tsu_nera)
