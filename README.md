@@ -61,6 +61,10 @@ SIGNATEのコンペは面白そう。
 
 - [新型コロナウイルス感染症｜感染症トピックス｜日本感染症学会](http://www.kansensho.or.jp/modules/topics/index.php?content_id=31)
 
+Amazon, 楽天などの大手ECサイトから情報を取得して表示。いいね。
+
+- [マスク在庫速報](https://zaiko.smoozapp.com/)
+
 ### 世界
 
 - [List of Novel Coronavirus Dashboards](https://www.arcgis.com/sharing/rest/content/items/a1746ada9bff48c09ef76e5a788b5910/resources/1581644001033.jpeg?w=2400)
