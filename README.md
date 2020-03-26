@@ -33,6 +33,10 @@ Jupyter Notebookでとりあえず感染者の統計量をみて可視化した�
 - [鎌倉市／新型コロナウイルス感染症について](https://www.city.kamakura.kanagawa.jp/skenkou/covid-19.html)
 - [新型コロナウイルスについて \| 厚木市](https://www.city.atsugi.kanagawa.jp/information/d047408.html)
 
+その他
+
+- [神奈川県　新型コロナ関連情報 \- Yahoo\! JAPAN](https://hazard.yahoo.co.jp/article/covid19kanagawa)
+
 ## References
 
 いろいろな取り組みをとりあえず調べる。ここがいろいろまとまってる。
