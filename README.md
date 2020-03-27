@@ -6,7 +6,7 @@
 
 ## 神奈川県のデータ集計
 
-Jupyter Notebookでとりあえず感染者の統計量をみて可視化した。
+Jupyter Notebook でとりあえず感染者の統計量をみて可視化した。
 
 - https://nbviewer.jupyter.org/github/tsu-nera/hack-for-corona/blob/master/notebooks/kanagawa-corona.ipynb
 
@@ -36,6 +36,7 @@ Jupyter Notebookでとりあえず感染者の統計量をみて可視化した�
 その他
 
 - [神奈川県　新型コロナ関連情報 \- Yahoo\! JAPAN](https://hazard.yahoo.co.jp/article/covid19kanagawa)
+- [COVID\-19 Japan \- 新型コロナウイルス対策ダッシュボード](https://www.stopcovid19.jp/)
 
 ## References
 
@@ -43,9 +44,9 @@ Jupyter Notebookでとりあえず感染者の統計量をみて可視化した�
 
 [COVID\-19 GIS Hub](https://coronavirus-disasterresponse.hub.arcgis.com/)
 
-SIGNATEのコンペは面白そう。
+SIGNATE のコンペは面白そう。
 
-- [COVID\-19チャレンジ（フェーズ1） \| SIGNATE \- Data Science Competition](https://signate.jp/competitions/260)
+- [COVID\-19 チャレンジ（フェーズ 1） \| SIGNATE \- Data Science Competition](https://signate.jp/competitions/260)
 
 ### 日本
 
@@ -55,7 +56,7 @@ SIGNATEのコンペは面白そう。
 - [新型コロナ感染 日本国内・世界各国マップ \| ESRI ジャパン](https://www.esrij.com/news/details/124546/?utm_source=esrij&utm_medium=topbanner&utm_campaign=covid19)
 - [swsoyee/2019\-ncov\-japan: 🦠 Interactive dashboard of COVID\-19 cases in Japan](https://github.com/swsoyee/2019-ncov-japan)
 
-詳細なデータと可視化サイト。CSVもダウンロード可能。
+詳細なデータと可視化サイト。CSV もダウンロード可能。
 
 - [都道府県別新型コロナウイルス感染者数マップ Coronavirus COVID\-19 Japan Case \(2019\-nCoV\)](https://gis.jag-japan.com/covid19jp/)
 - [「新型コロナウイルス感染者数マップ」について – J\.A\.G JAPAN](https://jag-japan.com/covid19map-readme/)
@@ -65,7 +66,7 @@ SIGNATEのコンペは面白そう。
 
 - [新型コロナウイルス感染症｜感染症トピックス｜日本感染症学会](http://www.kansensho.or.jp/modules/topics/index.php?content_id=31)
 
-Amazon, 楽天などの大手ECサイトから情報を取得して表示。いいね。
+Amazon, 楽天などの大手 EC サイトから情報を取得して表示。いいね。
 
 - [マスク在庫速報](https://zaiko.smoozapp.com/)
 
@@ -83,4 +84,4 @@ Amazon, 楽天などの大手ECサイトから情報を取得して表示。い�
 
 ## Authors
 
-* [tsu-nera](https://twitter.com/tsu_nera)
+- [tsu-nera](https://twitter.com/tsu_nera)
