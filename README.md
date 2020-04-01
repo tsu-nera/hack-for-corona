@@ -8,7 +8,8 @@
 
 Jupyter Notebook でとりあえず感染者の統計量をみて可視化した。
 
-- https://nbviewer.jupyter.org/github/tsu-nera/hack-for-corona/blob/master/notebooks/kanagawa-corona.ipynb
+- https://github.com/tsu-nera/hack-for-corona/blob/master/notebooks/kanagawa-corona.ipynb
+- https://nbviewer.jupyter.org/github/tsu-nera/hack-for-corona/blob/master/notebooks/kanagawa-corona.ipynb (こっちは更新が遅い)
 
 ## Data Sources
 
