@@ -1,9 +1,8 @@
 import os
 from invoke import task, run
 
-import requests
-
-RAWDATA_DIR = "rawdata"
+import src.tool as tool
+import src.constants as constants
 
 
 @task
@@ -13,15 +12,6 @@ def evaluate_notebook(c):
     command = " ".join([command_base, file_path])
 
     run(command)
-
-
-def download(url, file_path):
-    r = requests.get(url)
-
-    r.encoding = r.apparent_encoding
-
-    with open(file_path, 'w') as f:
-        f.write(r.text)
 
 
 @task
@@ -34,9 +24,12 @@ def get_rawdata(c):
 
 @task
 def get_patients(c):
+    '''
+    陽性患者数及び陽性患者の属性データ
+    http://www.pref.kanagawa.jp/docs/t3u/dst/s0060925.html
+    '''
     url = "http://www.pref.kanagawa.jp/osirase/1369/data/csv/patient.csv"
-    file_path = os.path.join(RAWDATA_DIR, "patients.csv")
-    download(url, file_path)
+    tool.download_csv(url, constants.PATIENTS_RAWFILE_PATH)
 
 
 @task
@@ -46,8 +39,7 @@ def get_contacts(c):
     http://www.pref.kanagawa.jp/docs/t3u/dst/s0352970.html
     '''
     url = "http://www.pref.kanagawa.jp/osirase/1369/data/csv/contacts.csv"
-    file_path = os.path.join(RAWDATA_DIR, "contacts.csv")
-    download(url, file_path)
+    tool.download_csv(url, constants.CONTACTS_RAWFILE_PATH)
 
 
 @task
@@ -57,8 +49,7 @@ def get_querent(c):
     https://www.pref.kanagawa.jp/docs/t3u/dst/s9516276.html
     '''
     url = "http://www.pref.kanagawa.jp/osirase/1369/data/csv/querent.csv"
-    file_path = os.path.join(RAWDATA_DIR, "querent.csv")
-    download(url, file_path)
+    tool.download_csv(url, constants.QUERENT_RAWFILE_PATH)
 
 
 @task
@@ -68,5 +59,4 @@ def get_hospital(c):
     https://www.pref.kanagawa.jp/docs/t3u/dst/s0361985.html
     '''
     url = "http://www.pref.kanagawa.jp/osirase/1369/data/csv/hospital.csv"
-    file_path = os.path.join(RAWDATA_DIR, "hospital.csv")
-    download(url, file_path)
+    tool.download_csv(url, constants.HOSPITAL_RAWFILE_PATH)
