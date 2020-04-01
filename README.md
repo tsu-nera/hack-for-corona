@@ -11,6 +11,10 @@ Jupyter Notebook でとりあえず感染者の統計量をみて可視化した
 - https://github.com/tsu-nera/hack-for-corona/blob/master/notebooks/kanagawa-corona.ipynb
 - https://nbviewer.jupyter.org/github/tsu-nera/hack-for-corona/blob/master/notebooks/kanagawa-corona.ipynb (こっちは更新が遅い)
 
+## Kaggle
+
+- [Help us better understand COVID\-19 \| Kaggle](https://www.kaggle.com/covid19)
+
 ## Data Sources
 
 基本は神奈川県 HP の対策ページから。
@@ -48,6 +52,7 @@ Jupyter Notebook でとりあえず感染者の統計量をみて可視化した
 SIGNATE のコンペは面白そう。
 
 - [COVID\-19 チャレンジ（フェーズ 1） \| SIGNATE \- Data Science Competition](https://signate.jp/competitions/260)
+- [COVID\-19 チャレンジ（フェーズ 2） \| SIGNATE \- Data Science Competition](https://signate.jp/competitions/261)
 
 ### 日本
 
@@ -56,6 +61,7 @@ SIGNATE のコンペは面白そう。
 - [reustle/covid19japan](https://github.com/reustle/covid19japan)
 - [新型コロナ感染 日本国内・世界各国マップ \| ESRI ジャパン](https://www.esrij.com/news/details/124546/?utm_source=esrij&utm_medium=topbanner&utm_campaign=covid19)
 - [swsoyee/2019\-ncov\-japan: 🦠 Interactive dashboard of COVID\-19 cases in Japan](https://github.com/swsoyee/2019-ncov-japan)
+- https://github.com/karaage0703/covid19_memo
 
 詳細なデータと可視化サイト。CSV もダウンロード可能。
 
