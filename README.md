@@ -37,6 +37,7 @@ Jupyter Notebook でとりあえず感染者の統計量をみて可視化した
 - [新型コロナウイルス感染症について｜相模原市](http://www.city.sagamihara.kanagawa.jp/kurashi/kenko/kansenyobo/1018481.html)
 - [鎌倉市／新型コロナウイルス感染症について](https://www.city.kamakura.kanagawa.jp/skenkou/covid-19.html)
 - [新型コロナウイルスについて \| 厚木市](https://www.city.atsugi.kanagawa.jp/information/d047408.html)
+- [横須賀市内の新型コロナウイルス感染症患者の発生状況（4 月 2 日更新）｜横須賀市](https://www.city.yokosuka.kanagawa.jp/3130/hasseijoukyou.html)
 
 その他
 
