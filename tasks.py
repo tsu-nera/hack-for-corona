@@ -7,6 +7,9 @@ import src.constants as constants
 
 @task
 def evaluate_notebook(c):
+    '''
+    コロナのデータ分析のためのJupyter Notebookを評価
+    '''
     command_base = "jupyter nbconvert --to notebook --ExecutePreprocessor.timeout=-1 --execute --inplace --ExecutePreprocessor.kernel_name=python"
     file_path = os.path.join("notebooks", "kanagawa-corona.ipynb")
     command = " ".join([command_base, file_path])
@@ -16,6 +19,9 @@ def evaluate_notebook(c):
 
 @task
 def get_rawdata(c):
+    '''
+    神奈川県が公開しているコロナに関するオープンデータを取得
+    '''
     get_patients(c)
     get_contacts(c)
     get_querent(c)
